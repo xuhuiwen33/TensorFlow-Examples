@@ -1,3 +1,4 @@
+#!/bin/bash
 cd /tmp/data
 rm -rf ./*
 wget --content-disposition goo.gl/GnNuGK
